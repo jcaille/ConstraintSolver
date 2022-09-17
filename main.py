@@ -1,4 +1,3 @@
-from distutils.command.config import config
 from ortools.sat.python import cp_model
 from read_excel import DayShift, read_configuration
 
